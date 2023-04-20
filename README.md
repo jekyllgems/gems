@@ -1,5 +1,5 @@
 # gems
-Thid repo holds built gems in case people need to host them and download them privately.
+Thid repo holds built gems in case people need to host them and download them privately. These are not ready for download yet, doing work on the server to prepare for hosting and API work.
 
 ### Method A:
 ```ruby
@@ -12,3 +12,4 @@ git 'https://github.com/jekyllgems/gems.git' do
   gem 'other gem in repo...'
 end
 ```
+
